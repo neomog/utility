@@ -1,0 +1,19 @@
+{
+    "name": "ohiare-nathaniel/utility",
+    "description": "A set of ready to use classes",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "OhiareNathaniel\\Utility\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Ohiare Nathaniel"
+        }
+    ],
+    "require": {}
+}
